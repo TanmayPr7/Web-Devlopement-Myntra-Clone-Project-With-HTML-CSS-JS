@@ -1,0 +1,44 @@
+.flexrow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.flexcolumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.gridcolumn{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-column-gap: 30px;
+    grid-row-gap: 5px;
+}
+.gridcolumn1{
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    grid-column-gap: 30px;
+}
+.gridrow{
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+}
+.center{
+    text-align: center;
+}
+.sectionsize{
+    max-width: 100%;
+    padding: 0px 30px 0px 60px;
+}
+.pbig{
+    font-size: 16px;
+    color: #282c3f;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+.psmall{
+    font-size: 12px;
+    color: #282c3f;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+}
