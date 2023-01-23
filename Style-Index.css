@@ -1,0 +1,59 @@
+/* Universal Properties */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body, html{
+    font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+/* Navigation Bar  Left*/
+#navbar{
+    min-height: 80px;
+    max-width: 100vw;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+#leftnav{
+    margin-left: 50px;
+}
+#leftnav img{
+    height: 53px;
+    margin: 11px 0px;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    padding: 0px 17px 28px 17px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+ul li a:hover{
+    border-bottom: 2px solid #ee5f73;
+}
+
+/* Navigation Bar Right  */
+#rightnav{
+    margin-right: 20px;
+}
+#rightnav input{
+    width: 95%;
+    padding: 8px 10px 10px 10px;
+    margin: 20px 20px 20px 40px;
+}
+#rightnav div p{
+    font-size: 12px;
+    margin: 0px 10px;
+}
+#rightnav div p:hover{
+    border-bottom: 2px solid #ee5f73;
+}
