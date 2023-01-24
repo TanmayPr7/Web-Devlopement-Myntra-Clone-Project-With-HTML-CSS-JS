@@ -69,3 +69,21 @@ ul li a:hover{
 }
 
 /* Footer Bar  */
+footer{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+#topcont{
+    width: 100%;
+    min-height: 310px;
+}
+.top-itm-big img{
+    height: 42px;
+    width: auto;
+}
