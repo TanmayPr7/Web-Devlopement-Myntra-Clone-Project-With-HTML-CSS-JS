@@ -1,0 +1,81 @@
+.hidden{
+    /* visibility: hidden; It Leavs Space Required By The Element */
+    display: none;
+}
+.resp-non-visible{
+    display: none;
+}
+.resp-pbig{
+    font-size: 12px;
+    color: #282c3f;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+.resp-uppercase{
+    text-transform: uppercase;
+}
+.resp-h{
+    font-size: 16px;
+    color: #282c3f;
+    letter-spacing: 0.4px;
+    font-weight: 700;
+    max-height: 40px;
+    margin: 10px 0px 25px 10px;
+}
+.resp-gridcolumn1{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 10px;
+    grid-row-gap: 5px;
+}
+.resp-gridcolumn2{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-column-gap: 10px;
+}
+.resp-gridcolumn3{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 10px;
+    grid-row-gap: 5px;
+}
+.resp-gridcolumn4{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-column-gap: 10px;
+}
+.resp-sectionsize{
+    max-width: 100%;
+    padding: 0px 20px 0px 20px;
+}
+.resp-top-itm-small{
+    display: inline-block;
+    width: 35%;
+    padding: 0px 20px;
+}
+.resp-top-itm-big{
+    width: 100%;
+    display: inline-block;
+    padding: 0px 20px;
+}
+.resp-footer-head-a{
+    font-size: 10px;
+    color: #282c3f;
+    font-weight: 700;
+    text-decoration: none;
+}
+.resp-footer-content-a{
+    font-size: 13px;
+    color: #696b79;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+.resp-footer-pm{
+    margin: 5px 0px;
+}
+.resp-first{
+    padding-top: 5px;
+}
+
+This is the basic responsive utilities css file for this project:)
+//////////////////////////////////////////////////////////////////
