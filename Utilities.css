@@ -77,7 +77,8 @@
 .footer-align{
     max-width: 1080px;
     margin: auto;
-    height: auto;
+    height: 310px;
+    padding-bottom: 50px;
 }
 .top-itm-small{
     width: 155px;
@@ -103,7 +104,6 @@
     color: #696b79;
     text-decoration: none;
     padding-bottom: 5px;
-    cursor: pointer;
 }
 .footer-pm{
     margin: 12px 0px;
