@@ -1,0 +1,9 @@
+Basically, it's a Myntra Cloone Web Development project, created using HTML, CSS, and JavaScript.
+A few of its features include responsiveness, hover effects, animations, and transitions, etc.
+Contains all the features of the Myntra landing page & many more. As a beginner, this is a fun,
+exciting, and challenging project that I personally enjoyed making.
+For this project there are no specific working principles, but as a habit,
+I leave a little note in every project stating the working principle,  and so here it is.
+
+This is the basic working principle & personal note on this Web Dev Project:)
+/////////////////////////////////////////////////////////////////////////////////////////////////
